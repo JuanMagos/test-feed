@@ -26,7 +26,7 @@ El número total de productos en el back-end es de 96. Para mostrarlos correctam
 - URL de repositorio público que contiene:
   - **README.md**
     - Explicación breve de tu solución.
-    - Pasos a seguir para ejecutar tu solución en una laptop nueva.
+    - Pasos a seguir para ejecutar tu solución en un equipo nuevo (sin nada instalado, por ejemplo una nueva instancia de AWS).
   - **src** Directorio con el código fuente de tu solución.
 
 ## Consejos:
